@@ -3,7 +3,7 @@
 > **Заповнює PM** після створення репо (олівець «Edit this file» праворуч над цим текстом → правки → «Commit
 > changes…»):
 >
-> - Команда: `<therapy-scheduling>`
+> - Команда: `therapy-scheduling`
 > - Сховище вимог: **issues**
 > - Продукт: <https://github.com/Sofiia-pm/therapy-scheduling-spec/issues/1>
 
